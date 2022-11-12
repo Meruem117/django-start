@@ -1,2 +1,2 @@
-# python-database-start
-Interact with the database using python
+# Peewee Start
+Demo project for peewee
