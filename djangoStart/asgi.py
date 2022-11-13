@@ -1,5 +1,5 @@
 """
-ASGI config for djangoStart project.
+ASGI djangoConfig for djangoStart project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

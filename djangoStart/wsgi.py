@@ -1,5 +1,5 @@
 """
-WSGI config for djangoStart project.
+WSGI djangoConfig for djangoStart project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
