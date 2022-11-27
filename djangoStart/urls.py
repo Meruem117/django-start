@@ -15,7 +15,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from bili import views as bili_views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('bili/', bili_views.index),
 ]
