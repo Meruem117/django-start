@@ -19,6 +19,5 @@ from bili import views as bili_views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('bili/hello/', bili_views.hello),
-    path('bili/index/', bili_views.index),
+    path('bili/login/', bili_views.login),
 ]
